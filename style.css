@@ -149,7 +149,7 @@ img,
     margin-bottom: 1rem;
 }
 
-/* Main Header Styles */
+
 /* Main Header Styles */
 .main-header {
 	text-align: center;
@@ -167,6 +167,7 @@ img,
 
 .picture {
 	width: 100%;
+	
 }
 .post {
 	width: 95%;
