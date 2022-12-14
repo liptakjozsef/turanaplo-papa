@@ -192,25 +192,8 @@ img,
 	border: 1px solid #b60e63;
 }
 
-.load {
-	display: block;
-	text-align: center;
-	padding: 0.625rem;
-	font-size: 1.25rem;
-	color: #8c8e9b;
-}
-@media (min-width: 768px) {
 
-}
-@media (min-width: 768px) {
 
-	.main-header {
-			position: fixed;
-			top: 0;
-			height: 100%;
-			width: 33.3%;
-		}
-}
 /* Primary Content Wrapper Styles */
 
 @media (min-width: 768px) {
