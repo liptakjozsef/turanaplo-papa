@@ -1,0 +1,1 @@
+https://bakancsosturanaplo.hu/
